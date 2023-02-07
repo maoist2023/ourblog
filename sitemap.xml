@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://maoist.netlify.app/posts/d7c18e18.html</loc>
+    
+    <lastmod>2023-02-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://maoist.netlify.app/posts/32130402.html</loc>
     
     <lastmod>2023-02-06</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://maoist.netlify.app/posts/8c3b056c.html</loc>
-    
-    <lastmod>2023-02-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://maoist.netlify.app/posts/d7c18e18.html</loc>
     
     <lastmod>2023-02-06</lastmod>
     
@@ -74,13 +74,6 @@
 
   
   <url>
-    <loc>https://maoist.netlify.app/tags/%E5%88%97%E5%AE%81/</loc>
-    <lastmod>2023-02-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://maoist.netlify.app/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C/</loc>
     <lastmod>2023-02-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,7 +81,7 @@
   </url>
   
   <url>
-    <loc>https://maoist.netlify.app/tags/%E6%96%87%E9%9D%A9/</loc>
+    <loc>https://maoist.netlify.app/tags/CR/</loc>
     <lastmod>2023-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -96,6 +89,13 @@
   
   <url>
     <loc>https://maoist.netlify.app/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2023-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://maoist.netlify.app/tags/%E5%88%97%E5%AE%81/</loc>
     <lastmod>2023-02-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
