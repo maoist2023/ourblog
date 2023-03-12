@@ -1,11 +1,11 @@
-https://maoist.netlify.app/about/index.html
+https://maoist.netlify.app/posts/32130402.html
 https://maoist.netlify.app/posts/8c3b056c.html
 https://maoist.netlify.app/posts/6a55e2bc.html
-https://maoist.netlify.app/posts/32130402.html
-https://maoist.netlify.app/posts/d7c18e18.html
-https://maoist.netlify.app/categories/index.html
-https://maoist.netlify.app/tags/index.html
+https://maoist.netlify.app/posts/b89e25c4.html
+https://maoist.netlify.app/about/index.html
 https://maoist.netlify.app/link/index.html
+https://maoist.netlify.app/tags/index.html
+https://maoist.netlify.app/categories/index.html
 https://maoist.netlify.app/
 https://maoist.netlify.app/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C/
 https://maoist.netlify.app/tags/CR/
